@@ -20,13 +20,13 @@ towerHanoi(0) ➞ 0
 
 ## Test Cases
 ```
-Test.assertEquals(towerHanoi(3), 7)
-Test.assertEquals(towerHanoi(5), 31)
-Test.assertEquals(towerHanoi(8), 255)
-Test.assertEquals(towerHanoi(19), 524287)
-Test.assertEquals(towerHanoi(9), 511)
-Test.assertEquals(towerHanoi(13), 8191)
-Test.assertEquals(towerHanoi(0), 0)
+Assert.AreEqual(towerHanoi(3), 7)
+Assert.AreEqual(towerHanoi(5), 31)
+Assert.AreEqual(towerHanoi(8), 255)
+Assert.AreEqual(towerHanoi(19), 524287)
+Assert.AreEqual(towerHanoi(9), 511)
+Assert.AreEqual(towerHanoi(13), 8191)
+Assert.AreEqual(towerHanoi(0), 0)
 ```
 
 ## Acceptance Criteria.

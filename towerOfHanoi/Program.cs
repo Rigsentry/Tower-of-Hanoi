@@ -9,7 +9,6 @@ namespace towerOfHanoi
             //Test cases built in this array:
             int[] DiscArray = {3, 5, 0, 11, 2};
 
-
             //Loop through test cases to avoid unit testing for demo to team:
             for(int i = 0; i < DiscArray.Length ; i++)
             {

@@ -7,15 +7,16 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace TowerOfHanoi
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            towerHanoi(3);
+            var a = towerHanoi(3);
+            Console.WriteLine(a);
             Console.ReadKey();
         }
 
-        static int towerHanoi(int input)
+        public static int towerHanoi(int input)
         {
             Stack<int> tower1 = new Stack<int>();
             Stack<int> tower2 = new Stack<int>();
@@ -27,7 +28,7 @@ namespace TowerOfHanoi
             }
             int count = 0;
             int result = Move(count, input, tower1, tower3, tower2);
-            return count;
+            return result;
         }
 
         //static int move1(int count, Stack<int> tower1, Stack<int> tower2, Stack<int> tower3)

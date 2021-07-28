@@ -7,3 +7,12 @@ C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge
 C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CopyComplete
 C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
 C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojAssemblyReference.cache
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CopyComplete
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb

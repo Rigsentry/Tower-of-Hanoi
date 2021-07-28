@@ -1,0 +1,17 @@
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\obj\Debug\UnitTestTH.csprojAssemblyReference.cache
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\obj\Debug\UnitTestTH.csproj.CoreCompileInputs.cache
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\bin\Debug\UnitTestTH.dll
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\bin\Debug\UnitTestTH.pdb
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\bin\Debug\TowerOfHanoi.exe
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\bin\Debug\TowerOfHanoi.pdb
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\bin\Debug\TowerOfHanoi.exe.config
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\obj\Debug\UnitTestTH.csproj.CopyComplete
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\obj\Debug\UnitTestTH.dll
+C:\work-not-shared\2021\codechallenge\TowerOfHanoi\TowerOfHanoi\UnitTestTH\obj\Debug\UnitTestTH.pdb

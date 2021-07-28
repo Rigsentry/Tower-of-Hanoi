@@ -1,0 +1,9 @@
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojAssemblyReference.cache
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CopyComplete
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
